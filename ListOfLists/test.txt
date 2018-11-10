@@ -1,0 +1,11 @@
+insertList simpleLinkedList keys: 1 2 3 4 5 6 7 8 9
+insertList ringSimpleLinkedList keys: q w e r t y u i
+insertList doubleLinkedList keys: d f o d a j d
+insertList ringDoubleLinkedList keys: d f w a f y
+hangList 1 doubleLinkedList keys: 12 12 24 546 23
+hangList 2 doubleLinkedList keys: fd gdoe kf erf
+hangList 3 ringSimpleLinkedList keys: 0 2 1 4 2 5
+hangList 2 doubleLinkedList keys: 12 3 des rew wre
+hangList 12 ringSimpleLinkedList keys:  ]  l ds er we sd
+hangList 23 simpleLinkedList keys: 1 d wo e 1 5 7 53 2
+getLists
